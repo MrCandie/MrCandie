@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/akinshub" target="blank"><img src="https://img.shields.io/twitter/follow/akinshub?logo=twitter&style=for-the-badge" alt="akinshub" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
-
 - Check out my blog [candie.hashnode.dev](candie.hashnode.dev)
 
 - 📫 How to reach me **akinwumiadekanmi2@gmail.com**
