@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm candie</h1>
-<h3 align="center">A FullStack Developer</h3>
+<h3 align="center">A FullStack Developer & Technical Writer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcandie&label=Profile%20views&color=0e75b6&style=flat" alt="mrcandie" /> </p>
 
@@ -11,10 +11,11 @@
 
 - 📫 How to reach me **akinwumiadekanmi2@gmail.com**
 
-- ⚡ Fun fact **I love Javascript**
+- ⚡ Fun fact **I am a Javascript fanboy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/@candie_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@candie_code" height="30" width="40" /></a>
 <a href="https://twitter.com/akinshub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akinshub" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrcandie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrcandie" height="30" width="40" /></a>
 <a href="https://hashnode.com/@candie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@candie" height="30" width="40" /></a>
@@ -26,6 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrcandie&show_icons=true&locale=en" alt="mrcandie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrcandie&" alt="mrcandie" /></p>
+
 
 
 
