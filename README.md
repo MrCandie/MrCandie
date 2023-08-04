@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **solidity**
 
-- 👨‍💻 All of my projects are available at [https://mrcandie.vercel.app/](https://mrcandie.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mrcandie.com/](https://mrcandie.com/)
 
 - 📝 I regularly write articles on [https://dev.to/candie_code](https://dev.to/candie_code)
 
